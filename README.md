@@ -1,28 +1,62 @@
-# Predicting Water Temperature from Salinity Using Linear Regression
+# 🧠 Machine Learning Projects Collection
 
-This mini project uses a dataset of oceanographic measurements to build a simple linear regression model that predicts **water temperature** based on **salinity levels**.
+Welcome to my hands-on machine learning journey!  
+In this repository, I'm exploring different ML algorithms by building practical projects step-by-step using Python and scikit-learn.
 
-## 📊 Dataset
-The data was sourced from the `bottle.csv` dataset which contains water quality measurements.
+Each notebook focuses on understanding how models work — not just getting high accuracy, but also interpreting, visualizing, and comparing their behavior.
 
-## 🔧 Steps:
-- Cleaned and filtered the dataset
-- Selected two attributes: Salinity (`Salnty`) and Temperature (`T_degC`)
-- Visualized data using Seaborn
-- Trained a Linear Regression model using scikit-learn
-- Evaluated the model using MAE, MSE, and RMSE
+---
 
-## 📈 Results:
-- **R² Score:** ~0.85
-- **MAE:** 1.43
-- **RMSE:** 2.27
+## 📁 Projects Included
 
-## 🛠️ Libraries Used
-- numpy
+| Project Title | Description |
+|---------------|-------------|
+| **1. Predicting Water Temperature from Salinity** | Using simple linear regression to model the relationship between salinity and temperature. |
+| **2. Polynomial Regression & Regularization** | Exploring how polynomial features affect regression performance and how regularization (Lasso, Ridge) prevents overfitting. |
+| **3. Classification Models Evaluation** | Comparing Logistic Regression, Decision Tree, SVM, and Random Forest using confusion matrix, accuracy, and decision boundaries. |
+| **4. Linear Regression - Basic** | Understanding the foundations of linear regression using synthetic data. |
+
+---
+
+## 📌 Key Concepts Covered
+
+- Linear Regression  
+- Polynomial Regression  
+- L1 / L2 Regularization  
+- Logistic Regression  
+- Decision Tree Classifier  
+- Support Vector Machine (SVM)  
+- Random Forest Classifier  
+- Confusion Matrix & Accuracy  
+- Feature Importance  
+- Decision Boundaries Visualization  
+- Model Scaling with StandardScaler
+
+---
+
+## 🚀 Technologies Used
+
+- Python
+- scikit-learn
 - pandas
+- NumPy
 - matplotlib
 - seaborn
-- scikit-learn
 
-## 💡 Notes
-This is a simple project for practice and learning purposes.
+---
+
+## 🎯 Goal
+
+My goal is to deeply understand the intuition behind ML models by experimenting with them in small but meaningful projects.  
+This repo will keep growing as I continue learning and testing new models and techniques.
+
+---
+
+## 🔗 Connect With Me
+
+GitHub: [engSalah-dot](https://github.com/engSalah-dot)
+
+---
+
+> “Learning by doing — the best way to truly understand machine learning.”
+
