@@ -14,7 +14,10 @@ Each notebook focuses on understanding how models work — not just getting high
 | **1. Predicting Water Temperature from Salinity** | Using simple linear regression to model the relationship between salinity and temperature. |
 | **2. Polynomial Regression & Regularization** | Exploring how polynomial features affect regression performance and how regularization (Lasso, Ridge) prevents overfitting. |
 | **3. Classification Models Evaluation** | Comparing Logistic Regression, Decision Tree, SVM, and Random Forest using confusion matrix, accuracy, and decision boundaries. |
-| **4. Linear Regression - Basic** | Understanding the foundations of linear regression using synthetic data. |
+| **4. Linear Regression - Basic** | Understanding the foundations of linear regression using synthetic data. |'
+| **5. Heart Disease Prediction using Machine Learning** | Working on Heart Disease data and make prediction . |'
+
+
 
 ---
 
