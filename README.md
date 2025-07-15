@@ -16,6 +16,8 @@ Each notebook focuses on understanding how models work — not just getting high
 | **3. Classification Models Evaluation** | Comparing Logistic Regression, Decision Tree, SVM, and Random Forest using confusion matrix, accuracy, and decision boundaries. |
 | **4. Linear Regression - Basic** | Understanding the foundations of linear regression using synthetic data. |'
 | **5. Heart Disease Prediction using Machine Learning** | Working on Heart Disease data and make prediction . |'
+| **5. Heart Disease Prediction using Machine Learning** | Working on Heart Disease data and make prediction . |'
+| **6. Fashion Mnist Classifier** | A beginner-friendly deep learning project to classify clothing images using neural networks. . |'
 
 
 
