@@ -18,6 +18,10 @@ Each notebook focuses on understanding how models work — not just getting high
 | **5. Heart Disease Prediction using Machine Learning** | Working on Heart Disease data and make prediction . |'
 | **5. Heart Disease Prediction using Machine Learning** | Working on Heart Disease data and make prediction . |'
 | **6. Fashion Mnist Classifier** | A beginner-friendly deep learning project to classify clothing images using neural networks. . |'
+| **7. Fashion MNIST Datasets Model Using CNNs** | Developed a CNN model with TensorFlow to classify Fashion MNIST clothing images into 10 categories.  . |'
+
+
+
 
 
 
